@@ -1,0 +1,27 @@
+{
+    "sell_details": [
+      {
+        "id": "1",
+        "result_path": "https://scielo.isciii.es/pdf/edu/v11s1/mesa1_11s01_ps11.pdf",
+        "subtotal": 500,
+        "idPatient": 1,
+        "idTest": 1,
+        "idSell": 1,
+        "idRequest": 1,
+        "created_at": "valor_del_created_at",
+        "updated_at": "valor_del_updated_at"
+      },
+      {
+        "id": 2,
+        "result_path": "https://www.scielo.org.mx/pdf/bmim/v70n4/v70n4a10.pdf",
+        "subtotal": 200,
+        "idPatient": 2,
+        "idTest": 2,
+        "idSell": 2,
+        "idRequest": 2,
+        "created_at": "valor_del_created_at",
+        "updated_at": "valor_del_updated_at"
+      }
+    ]
+  }
+  
