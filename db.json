@@ -22,6 +22,16 @@
         "created_at": "valor_del_created_at",
         "updated_at": "valor_del_updated_at"
       }
+    ],
+    "users": [
+      {
+        "id": 5,
+        "cel": "1234567890"
+      },
+      {
+        "id": 2,
+        "cel": "7894561230"
+      }
     ]
   }
   
